@@ -2,7 +2,7 @@
 
 Jag studerar till Javautvecklare på IT-Högskolan i Stockholm och har en stark passion för problemlösning och systemutveckling. Efter att ha arbetat inom skola i cirka 7 år innan jag påbörjade min IT-resa (2024), har jag utvecklat en bra förståelse för samarbete, nyfikenhet och lagarbete, något jag tar med mig in i mina IT-projekt.
 
-💻 Kompetenser:
+💻 Kompetenser:![Java](https://github.com/crownwangmian/crownwangmian/blob/main/assets/java.svg)
 
 📚 Just nu fördjupar jag mig i Java-backendutveckling och ser fram emot att fortsätta utvecklas inom både frontend och backend för att bli en komplett fullstack-utvecklare.
 
