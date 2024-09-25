@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Jag studerar till Javautvecklare på IT-Högskolan i Stockholm och har en stark passion för problemlösning och systemutveckling. Efter att ha arbetat inom skola i cirka 7 år innan jag påbörjade min IT-resa (2024), har jag utvecklat en bra förståelse för samarbete, nyfikenhet och lagarbete, något jag tar med mig in i mina IT-projekt.
+Jag studerar för närvarande till Javautvecklare på IT-Högskolan i Stockholm, men jag har redan 3 års erfarenhet av Java, 2 års erfarenhet av JavaScript och 1 års erfarenhet av Python. Min Java-erfarenhet har främst varit inom webbutveckling och e-handel. Jag har en stark passion för kod och är övertygad om att jag kan leverera högkvalitativa lösningar genom att fokusera på clean code. Om du är intresserad av att veta mer, tveka inte att ta en titt på mina projekt!
 
 💻 Kompetenser:<br><br>
 
