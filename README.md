@@ -4,23 +4,6 @@ Jag studerar till Javautvecklare på IT-Högskolan i Stockholm och har en stark 
 
 💻 Kompetenser:
 
-
-Java
-
-Java
-
-Java
-
-Java
-
-Java
-
-Java
-
-Java
-
-
-
 📚 Just nu fördjupar jag mig i Java-backendutveckling och ser fram emot att fortsätta utvecklas inom både frontend och backend för att bli en komplett fullstack-utvecklare.
 
 🎯 Mål: Att arbeta som Javautvecklare eller systemutvecklare och bidra till att utveckla smarta, hållbara lösningar, samtidigt som jag fortsätter att växa som fullstackutvecklare.
